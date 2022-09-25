@@ -169,7 +169,7 @@ git clone https://github.com/SimVascular/svFSI-Tools.git
 
 #### 流固耦合模块
 
-[流固耦合模块](流固耦合模块.md)
+[流固耦合模块](流固耦合模块/流固耦合模块.md)
 
 #### 0D与3D耦合模块
 
